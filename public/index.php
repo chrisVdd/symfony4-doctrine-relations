@@ -1,5 +1,5 @@
 <?php
-
+//Owning Vs Inverse Relations
 use App\Kernel;
 use Symfony\Component\Debug\Debug;
 use Symfony\Component\HttpFoundation\Request;
